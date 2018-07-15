@@ -1,2 +1,3 @@
 pow(e) is a platform.
 pow(e) is also free.
+& is equal to and in python.
