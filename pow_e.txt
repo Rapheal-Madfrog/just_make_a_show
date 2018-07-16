@@ -2,3 +2,4 @@ pow(e) is a platform.
 pow(e) is also free.
 & is equal to and in python.
 no bady cares the order.
+鸭哥最帅.
